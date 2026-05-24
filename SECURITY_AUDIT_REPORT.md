@@ -569,16 +569,6 @@ The Inventory Management System has been successfully secured against all identi
 
 **Overall Security Rating**: 🟢 **EXCELLENT** (95/100)
 
----
-
-## 📞 Contact
-
-For security concerns or to report vulnerabilities:
-- Email: security@example.com
-- Security Policy: See SECURITY.md
-
----
-
 **Report Version**: 1.0  
 **Last Updated**: 2026-05-24  
 **Next Audit**: 2026-08-24 (Quarterly)
